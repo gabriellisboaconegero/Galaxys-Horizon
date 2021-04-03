@@ -23,7 +23,6 @@ amarelo = (255, 255, 0)
 azul = (0, 0, 255)
 
 # loads
-nome_img =pygame.image.load('data/bome.png')
 
 bullet_sound = pygame.mixer.Sound('data/tiro.wav')
 bullet_sound.set_volume(0.4)
